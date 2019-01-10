@@ -8,7 +8,7 @@ public void setup()
     if(isPrime(dNum)== true)
     {
       System.out.println(dNum);
-      i = 500;
+      break;
     }
   }
     
